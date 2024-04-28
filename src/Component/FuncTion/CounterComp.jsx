@@ -14,8 +14,10 @@ function CounterComp() {
       {name}
       <button onClick={handleadd}>Add </button>
 
+<input/>
 
-      
+dweewew
+      dcjkasdjasdjgdfjkgsadfjkasdfkjfakjg
     </div>
   );
 }
